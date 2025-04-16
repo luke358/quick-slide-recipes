@@ -1,0 +1,14 @@
+{
+  "name": "quick-slide-recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "create": "node create.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0",
+  "description": ""
+}
