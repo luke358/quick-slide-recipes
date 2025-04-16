@@ -1,7 +1,7 @@
 [
   {
     "name": "Todoist",
-    "icon": "https://slidepad.app/icons/todoist.com.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/todoist.com.ico",
     "recipeId": "todoist.com",
     "serviceUrl": "https://todoist.com/Users/showLogin",
     "version": "1.0.0",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Youtube",
-    "icon": "https://slidepad.app/icons/youtube.com.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/youtube.com.ico",
     "recipeId": "youtube.com",
     "serviceUrl": "https://youtube.com/",
     "version": "1.0.0",
@@ -88,16 +88,6 @@
     "categories": [
       "Most Used",
       "Music"
-    ]
-  },
-  {
-    "name": "Apple Notes",
-    "icon": "https://slidepad.app/icons/icloud.com.notes.png",
-    "recipeId": "icloud.com/#notes3",
-    "serviceUrl": "https://www.icloud.com/#notes3",
-    "version": "1.0.0",
-    "categories": [
-      "Most Used"
     ]
   },
   {
@@ -270,7 +260,7 @@
   },
   {
     "name": "Mail",
-    "icon": "https://slidepad.app/icons/icloud.com.mail.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.mail.ico",
     "recipeId": "icloud.com/#mail",
     "serviceUrl": "https://www.icloud.com/#mail",
     "version": "1.0.0",
@@ -280,7 +270,7 @@
   },
   {
     "name": "Contacts",
-    "icon": "https://slidepad.app/icons/icloud.com.contacts.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.contacts.ico",
     "recipeId": "icloud.com/#contacts",
     "serviceUrl": "https://www.icloud.com/#contacts",
     "version": "1.0.0",
@@ -290,6 +280,7 @@
   },
   {
     "name": "Calendar",
+    "icon": "https://calendar.google.com/googlecalendar/images/favicon_v2014_24.ico",
     "recipeId": "icloud.com/#calendar",
     "serviceUrl": "https://www.icloud.com/#calendar",
     "version": "1.0.0",
@@ -299,7 +290,7 @@
   },
   {
     "name": "Photos",
-    "icon": "https://slidepad.app/icons/icloud.com.photos.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.photos.ico",
     "recipeId": "icloud.com/#photos",
     "serviceUrl": "https://www.icloud.com/#photos",
     "version": "1.0.0",
@@ -309,7 +300,7 @@
   },
   {
     "name": "iCloud Drive",
-    "icon": "https://slidepad.app/icons/icloud.com.icloud.drive.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.icloud.drive.ico",
     "recipeId": "icloud.com/#iclouddrive",
     "serviceUrl": "https://www.icloud.com/#iclouddrive",
     "version": "1.0.0",
@@ -318,8 +309,8 @@
     ]
   },
   {
-    "name": "Notes",
-    "icon": "https://slidepad.app/icons/icloud.com.notes.png",
+    "name": "Apple Notes",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.notes.ico",
     "recipeId": "icloud.com/#notes3",
     "serviceUrl": "https://www.icloud.com/#notes3",
     "version": "1.0.0",
@@ -329,7 +320,7 @@
   },
   {
     "name": "Reminders",
-    "icon": "https://slidepad.app/icons/icloud.com.reminders.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.reminders.ico",
     "recipeId": "icloud.com/#reminders",
     "serviceUrl": "https://www.icloud.com/#reminders",
     "version": "1.0.0",
@@ -339,7 +330,7 @@
   },
   {
     "name": "Pages",
-    "icon": "https://slidepad.app/icons/icloud.com.pages.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.pages.ico",
     "recipeId": "icloud.com/#pages",
     "serviceUrl": "https://www.icloud.com/#pages",
     "version": "1.0.0",
@@ -349,7 +340,7 @@
   },
   {
     "name": "Numbers",
-    "icon": "https://slidepad.app/icons/icloud.com.numbers.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.numbers.ico",
     "recipeId": "icloud.com/#numbers",
     "serviceUrl": "https://www.icloud.com/#numbers",
     "version": "1.0.0",
@@ -359,7 +350,7 @@
   },
   {
     "name": "Keynote",
-    "icon": "https://slidepad.app/icons/icloud.com.keynote.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/icloud.com.keynote.ico",
     "recipeId": "icloud.com/#keynote",
     "serviceUrl": "https://www.icloud.com/#keynote",
     "version": "1.0.0",
@@ -389,7 +380,7 @@
   },
   {
     "name": "Microsoft Outlook",
-    "icon": "https://slidepad.app/icons/outlook.live.com.ico",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/outlook.live.com.ico",
     "recipeId": "outlook.live.com",
     "serviceUrl": "https://outlook.live.com/mail/",
     "version": "1.0.0",
@@ -410,7 +401,7 @@
   },
   {
     "name": "Messenger",
-    "icon": "https://slidepad.app/icons/messenger.com.ico",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/messenger.com.ico",
     "recipeId": "messenger.com",
     "serviceUrl": "https://messenger.com/",
     "version": "1.0.0",
@@ -440,7 +431,7 @@
   },
   {
     "name": "Discord",
-    "icon": "https://slidepad.app/icons/discord.com.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/discord.com.ico",
     "recipeId": "discordapp.com",
     "serviceUrl": "https://discordapp.com/login",
     "version": "1.0.0",
@@ -450,7 +441,7 @@
   },
   {
     "name": "Grammarly",
-    "icon": "https://slidepad.app/icons/grammarly.com.png",
+    "icon": "https://quick-slide-recipes.vercel.app/icons/grammarly.com.png",
     "recipeId": "grammarly.com",
     "serviceUrl": "https://www.grammarly.com/signin",
     "version": "1.0.0",
